@@ -1,0 +1,11 @@
+Fala galera!
+
+Estou criando esse compilado de ferramentinhas
+para ajudar no dia a dia de quem tem de fazer
+tarefas mais manuais.
+
+
+Files Instructions:
+
+covert_Arquiv - biblioteca usada
+pip install pywin32
